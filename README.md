@@ -1,2 +1,1 @@
-Hahaha, hehehe, everybody read-a-me
-AND MEIN LITTLE BALLS
+Here is a site made with HTML dedicated to one recipe: A shitty omelette.
